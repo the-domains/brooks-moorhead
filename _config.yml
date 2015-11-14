@@ -1,0 +1,23 @@
+name: Brooks Moorhead
+favicon: null
+layout_spectrum: 0.046548869693651795
+typography_spectrum: 0.6083362950012088
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.10470556025393307
+  lightness: 0.6224535114597529
+  saturation: 0.8935754338745028
+  rhythmicContrast: 0.9301669325213879
+purpose: []
