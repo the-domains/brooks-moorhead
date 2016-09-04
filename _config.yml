@@ -1,7 +1,18 @@
+layout_spectrum: 0.6550765885040164
+typography_spectrum: 0.04189181583933532
+color:
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.3735589296557009
+  lightness: 0.12551047559827566
+  saturation: 0.9316069076303393
+  rhythmicContrast: 0.6896484410390258
 name: Brooks Moorhead
 favicon: null
-layout_spectrum: 0.91606
-typography_spectrum: 0.36913
 title: B. Moorhead
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#2b2d2c'
-    - '#824526'
-    - '#e3b788'
-    - '#b2c7d8'
-    - '#af9554'
-  brandStrength: 0.4375
-  lightness: 0.8125
-  saturation: 0.8125
-  rhythmicContrast: 0.75
 purpose: []
